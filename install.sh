@@ -1,2 +1,1 @@
-yarn install
-yarn build
+yarn install && yarn build
